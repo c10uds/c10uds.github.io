@@ -160,7 +160,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%9F%B9%E8%AE%AD/</loc>
+    <loc>http://example.com/tags/glibc/</loc>
     <lastmod>2023-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -174,7 +174,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/glibcLearning/</loc>
+    <loc>http://example.com/tags/%E5%9F%B9%E8%AE%AD/</loc>
     <lastmod>2023-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -188,7 +188,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/glibc/</loc>
+    <loc>http://example.com/tags/glibcLearning/</loc>
     <lastmod>2023-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

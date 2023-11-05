@@ -16,10 +16,10 @@ http://example.com/categories/index.html
 http://example.com/
 http://example.com/tags/practice/
 http://example.com/tags/Kernel/
-http://example.com/tags/%E5%9F%B9%E8%AE%AD/
-http://example.com/tags/web/
-http://example.com/tags/glibcLearning/
-http://example.com/tags/life/
 http://example.com/tags/glibc/
+http://example.com/tags/web/
+http://example.com/tags/%E5%9F%B9%E8%AE%AD/
+http://example.com/tags/life/
+http://example.com/tags/glibcLearning/
 http://example.com/categories/Kernel/
 http://example.com/categories/glibc/
