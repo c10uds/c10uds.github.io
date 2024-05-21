@@ -1,3 +1,4 @@
+http://example.com/2024/05/20/mini-L-WriteUp/
 http://example.com/about/index.html
 http://example.com/2023/11/13/house-of-emma/
 http://example.com/2023/11/11/house-of-apple%E7%B3%BB%E5%88%97/
@@ -20,5 +21,6 @@ http://example.com/tags/glibc/
 http://example.com/tags/web/
 http://example.com/tags/%E5%9F%B9%E8%AE%AD/
 http://example.com/tags/glibcLearning/
+http://example.com/tags/WriteUp/
 http://example.com/categories/Kernel/
 http://example.com/categories/glibc/
