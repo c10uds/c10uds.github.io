@@ -1,0 +1,23 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: ShenFan
+      link: https://faded-shadow.github.io/
+      avatar: /img/ShenFan.jpg
+      descr: 和我合体成为binary吧(x)
+    2:
+      name: Dawn_whisper
+      link: https://dawn-whisper.top/
+      avatar: /img/dw.jpg
+      descr: 大跌
+    3:
+      name: Lazy_fish
+      link: https://la2y_fish.gitee.io/blog/
+      avatar: /img/lazy_fish.jpg
+      descr: 我的黑奴(x)
+    4:
+      name: hzgg
+      link: https://showlinkroom.me/
+      avatar: /img/hzgg.jpg
+      descr: hzgg我的hzgg
